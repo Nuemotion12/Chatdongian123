@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ChattDemoMain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_list.xml",
+        "source": "C:\\ChattDemoMain\\app\\src\\main\\res\\menu\\menu_user_list.xml"
+    },
+    {
+        "merged": "C:\\ChattDemoMain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_chat.xml",
+        "source": "C:\\ChattDemoMain\\app\\src\\main\\res\\menu\\menu_chat.xml"
+    }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/sendPhoto"
+        android:id="@+id/sendPhoto"
+        android:showAsAction="never"
+        />
+    <item
+        android:title="@string/sendPhotoGallery"
+        android:id="@+id/sendPhotoGallery"
+        android:showAsAction="never"
+
+        />
+    <item
+        android:title="@string/sendLocation"
+        android:id="@+id/sendLocation" />
+</menu>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_d9af87e103e80d860fea84a7fbabd4a7546d0318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\hani.momanii.supernova_emoji_library\supernova-emoji-library\0.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b83e82da8c456a9766711909d277d6bdda6c0a24">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\hani.momanii.supernova_emoji_library-supernova-emoji-library-0.0.2_1ca39b1a114cba28817a985fd504c8ace10ada08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_b485a1a1232623c46bd1ed8c2c69e1b84d1a0e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_04edf893ad95b086280f9773d7cf666ac904a541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_da439324483fd58b6aff5df39e4e03aa81aa9adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_1a28c4a3a6bb417e08f6234666b5e6caf1a0b2ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_28b1780aa75c7a03249455df1da32c1a4ff95c07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_26555bb98e843b904dd9ab487b1caac3825ab90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_563b4486de76f2beaf7d2e6069732ded091cabac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_55505376df827bb79ab3d6f27946785451baf4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_e84367d46abc938ec32a4fcbcb0120ce20325219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_75d5d30e863aebb6b35f99e09ffbc4c55e27f1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_babf32bde8ca09542c381aa96d6e1d3e33d497db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_2aea65a6217584ffa61e25aba92217ea3b131cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_56d72e846131fc7154cb896998617bf5f3e547c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_18c78c9b1e4407b94dd85489a1467dc1a963785b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_1259fc8baf27005e9a333863bd2e23d76e736bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_02834732f93c8c8eee4e28792900ea9ace66ea00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_d020b937f12ed8a4212d9724d4a1322509a38027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_125922de4bfd1c9a430a1d03d4e40bcf880c651c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\glide-3.7.0_2a6d8b6d439392063df173dd541b8b23a73bd5ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d0379f345dccaead2f97d37b671352687c0ec56a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\ChattDemoMain\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_a27f57b5a90f8be406cb392e5f752c862b539e00.jar" />
+    </item>
+
+</items>
